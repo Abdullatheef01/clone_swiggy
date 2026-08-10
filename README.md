@@ -25,7 +25,7 @@ Users can browse products, add items to the cart, remove items, and view the tot
 | ------------ | ----------------------- |
 | React.js     | Frontend development    |
 | JavaScript   | Application logic       |
-| CSS          | Styling                 |
+| CSS, Bootstap          | Styling                 |
 | React Router | Page navigation         |
 | Vite         | Development environment |
 
