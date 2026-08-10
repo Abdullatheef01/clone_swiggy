@@ -1,0 +1,11 @@
+[
+    {"id": 1, "name": "Chicken Burger", "price": 149, "category": "Burger", "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+    {"id": 2, "name": "Veg Burger", "price": 119, "category": "Burger", "image": "https://images.unsplash.com/photo-1520072959219-c595dc870360"},
+    {"id": 3, "name": "Margherita Pizza", "price": 199, "category": "Pizza", "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002"},
+    {"id": 4, "name": "Pepperoni Pizza", "price": 249, "category": "Pizza", "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e"},
+    {"id": 5, "name": "French Fries", "price": 99, "category": "Sides", "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877"},
+    {"id": 6, "name": "Chicken Wings", "price": 179, "category": "Sides", "image": "https://images.unsplash.com/photo-1527477396000-e27163b481c2"},
+    {"id": 7, "name": "Pasta", "price": 189, "category": "Pasta", "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0"},
+    {"id": 8, "name": "White Sauce Pasta", "price": 209, "category": "Pasta", "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601"}
+   
+]

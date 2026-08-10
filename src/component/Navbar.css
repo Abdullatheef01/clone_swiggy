@@ -1,0 +1,35 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color:#1a1a1a;
+    padding:10px;
+    
+}
+
+.logo{
+    font-size:100%;
+    margin-left: 10px;
+    color: rgb(255, 81, 0);
+     text-align: center;
+}
+
+.link{
+    
+    text-decoration: none;
+    color:#ccc;
+    font-size:100%;
+    font-weight: 500;
+    transition: 0.3 ease;
+    font-size: larger;
+}
+.link:hover{
+    color:white;
+}
+li{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    margin-top: 15px;
+    list-style: none;
+    margin-right: 20px;
+}
