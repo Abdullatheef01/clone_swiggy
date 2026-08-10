@@ -55,13 +55,13 @@ The total amount is calculated dynamically based on the products currently avail
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git https://github.com/Abdullatheef01/clone_swiggy
 ```
 
 ### 2. Navigate to the project
 
 ```bash
-cd react-shopping-cart
+cd clone_swiggy
 ```
 
 ### 3. Install dependencies
