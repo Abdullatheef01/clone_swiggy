@@ -1,11 +1,15 @@
 section{
     height: 100vh;
-  
+    /* overflow: hidden; */
 }
 .top-cart{
     display: flex;
     justify-content: space-between;
-    
+
+}
+.card-item{
+      max-height: 100vh;
+  overflow-y: auto;
 }
 .imgtext {
     display: flex;
@@ -13,7 +17,8 @@ section{
     padding: 10px;
     border-radius: 25px;
     background-color: whitesmoke;
-    
+    cursor: pointer;
+
 }
 
 .img img {
@@ -22,7 +27,7 @@ section{
     height: 100%;
     max-width: 100px;
     border-radius: 15px;
-    
+   
 }
 .top-cart h1{
     font-family: Arial, Helvetica, sans-serif;
@@ -48,6 +53,7 @@ button{
     background-color:#ff5100;
     border-radius: 25px;
     margin-top: 10px;
+    cursor: pointer;
     transition: 0.5s ease;
 }
 button:hover{

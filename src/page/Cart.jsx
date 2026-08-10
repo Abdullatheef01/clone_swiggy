@@ -16,7 +16,8 @@ const totalamount= cart.reduce((total,product)=>{
   return (
     <>
       <section className='cart'>
-        <div className="top-cart">
+        <div className="card-item">
+            <div className="top-cart">
             <h1>Cart Product <span>{cart.length} </span></h1>
             <h1><span>{totalamount}</span> Total Amount </h1>
             
@@ -43,6 +44,8 @@ const totalamount= cart.reduce((total,product)=>{
       
        
 
+        </div>
+        
       </section>
     </>
   )
